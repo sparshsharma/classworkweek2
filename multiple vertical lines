@@ -1,0 +1,12 @@
+function setup() {
+  createCanvas (480,600)
+  var i = 30 
+  while (i <= 480){
+    line(i+10,30,i+10,480)
+    i+=10
+  }
+}
+
+function draw() {
+  
+}
